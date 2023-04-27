@@ -5,20 +5,24 @@ public class back_2023 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         N = sc.nextInt();
-
+        //제일 앞자리가 소수여야 무조건 소수가 된다는 조건이 붙음.
         DFS(2,1);
         DFS(3,1);
-        DFS(5,1);
+        DFS(5,1);   
         DFS(7,1);
 
     }
+    
+    //주어진 자리가 N이 되면 리턴한다. 
     static void DFS(int number, int x){
+         
         if(x == N){
             if(isPrime(number)){
                 System.out.println(number);
             }
             return;
         }
+        //자리수를 늘려나가며 다 검증하는 재귀 
         for(int i = 1; i<10; i++){
             if(i%2 ==0){
                 continue;
@@ -30,6 +34,7 @@ public class back_2023 {
 
     }
 
+    //소수 인지 검증하는 로직이다. 
     static boolean isPrime(int num){
         for(int i = 2; i<= num/2 ;i++)
             if(num % i == 0) return false;

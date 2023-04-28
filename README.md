@@ -41,8 +41,9 @@ Example
 
 
 ## 👏🏻 Week Submit
-공통 과제 
+<p>공통 과제</p> 
 1주 8문제 Solve
-선택 과제(자유로이 작성해주세요.)
-4문제(중급 알고리즘 - DFS, BFS, DP, Greedy)
+
+<p>선택 과제(자유로이 작성해주세요.)</p>
+4문제(중급 알고리즘 - DFS, BFS, DP, Greedy) <br>
 4문제(프로그래머스 Level.2~ )

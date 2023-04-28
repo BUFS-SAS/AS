@@ -25,7 +25,7 @@ README.md 파일을 포함한 모든 폴더에서 자유로운 권한이 있습�
 ### 4. Discussions 
 Discussions 탭을 활용하여 의견교류 및 자신을 소개하는 글을 작성해주세요!
 
-
+ 
 ## Commit Message 
 Example 
 [BFS]_알고리즘 문제 이름_taedong KIM
@@ -37,3 +37,12 @@ Example
 각자의 목표와 마음가짐을 모두에게 공유해주세요!! 모두에게 도움이 될겁니다!.
 
 > ' 코딩테스트 부숴 버리자!! ' -김태동-
+> ' 
+
+
+## 👏🏻 Week Submit
+공통 과제 
+1주 8문제 Solve
+선택 과제(자유로이 작성해주세요.)
+4문제(중급 알고리즘 - DFS, BFS, DP, Greedy)
+4문제(프로그래머스 Level.2~ )
